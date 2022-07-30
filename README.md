@@ -12,6 +12,8 @@ you need to Install `pytube` library from
 ```
 pip install pytube
 ```
+check out more about [pytube](https://pytube.io/en/latest/)
+
 ---
 ## How to download 
 
