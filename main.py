@@ -2,7 +2,7 @@ from sys import argv
 from pytube import YouTube
 
 
-link = argv[1]  # getting the first argument as the link
+link = input("Enter the link : ")
 yt = YouTube(link)
 
 print("Title: ", yt.title)
